@@ -45,7 +45,7 @@ void print_array(unsigned char * ptrOfArray, unsigned int lengthOfArray);
  *
  * @return <The maximum value are returned as an unsigned integer.>
  */
-void find_maximum(unsigned char * ptrOfArray, unsigned int lengthOfArray);
+unsigned char * find_maximum(unsigned char * ptrOfArray, unsigned int lengthOfArray);
 
 
 /**
@@ -58,7 +58,7 @@ void find_maximum(unsigned char * ptrOfArray, unsigned int lengthOfArray);
 *
 * @return <The minimum value are returned as an unsigned integer.>
 */
-void find_minimum(unsigned char * ptrOfArray, unsigned int lengthOfArray);
+unsigned char * find_minimum(unsigned char * ptrOfArray, unsigned int lengthOfArray);
 
 
 /**
@@ -71,7 +71,7 @@ void find_minimum(unsigned char * ptrOfArray, unsigned int lengthOfArray);
 *
 * @return <The mean value are returned as an unsigned integer.>
 */
-void find_mean(unsigned char * ptrOfArray, unsigned int lengthOfArray);
+unsigned char * find_mean(unsigned char * ptrOfArray, unsigned int lengthOfArray);
 
 
 /**
@@ -84,7 +84,7 @@ void find_mean(unsigned char * ptrOfArray, unsigned int lengthOfArray);
 *
 * @return <All elements are returned in order.>
 */
-void sort_array(unsigned char * ptrOfArray, unsigned int lengthOfArray);
+unsigned char * sort_array(unsigned char * ptrOfArray, unsigned int lengthOfArray);
 
 
 /**
@@ -97,7 +97,7 @@ void sort_array(unsigned char * ptrOfArray, unsigned int lengthOfArray);
 *
 * @return <The median value are returned as an unsigned integer.>
 */
-void find_mean(unsigned char * ptrOfArray, unsigned int lengthOfArray);
+unsigned char * find_mean(unsigned char * ptrOfArray, unsigned int lengthOfArray);
 
 
 /**
@@ -110,7 +110,7 @@ void find_mean(unsigned char * ptrOfArray, unsigned int lengthOfArray);
 *
 * @return <The median value are returned as an unsigned integer.>
 */
-void find_median(unsigned char * ptrOfArray, unsigned int lengthOfArray);
+unsigned char * find_median(unsigned char * ptrOfArray, unsigned int lengthOfArray);
 
 
 /**

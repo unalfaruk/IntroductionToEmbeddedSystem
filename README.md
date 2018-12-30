@@ -1,2 +1,7 @@
-/* Add Author and Project Details here */
-These files are for the first assesment of the embedded programming course on Coursera.
+# Introduction to Embedded Systems Software and Development Environments
+
+#### Assesment - 1
+
+This repo contains .c and .h files for the assesment about arrays.
+
+##### A. Faruk UNAL
