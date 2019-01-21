@@ -4,5 +4,5 @@ There is a course on [coursera] about embedded system I take. And the lecturer w
 
 This repo contains my assessments.
 
-[coursera]: <https://github.com/joemccann/dillinger>
+[coursera]: <https://www.coursera.org/learn/introduction-embedded-systems>
 ##### A. Faruk UNAL
