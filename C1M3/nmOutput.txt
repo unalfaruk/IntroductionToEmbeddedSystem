@@ -1,0 +1,170 @@
+00000000 A _intvecs_base_address
+00000000 t $t
+00000001 t deregister_tm_clones
+00000010 N $d
+00000014 t $d
+00000020 t $t
+00000021 t register_tm_clones
+00000038 t $d
+00000044 t $t
+00000045 t __do_global_dtors_aux
+00000048 N $d
+00000060 t $d
+0000006c t $t
+0000006d t frame_dummy
+00000080 N $d
+00000090 t $d
+000000a0 N $d
+000000a4 t $t	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/libgloss/arm/../../../../../../libgloss/arm/crt0.S:180
+000000a5 T _mainCRTStartup	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/libgloss/arm/../../../../../../libgloss/arm/crt0.S:180
+000000a5 T _start	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/libgloss/arm/../../../../../../libgloss/arm/crt0.S:180
+000000c8 N $d	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/libgloss/arm/../../../../../../libgloss/arm/crt0.S:280
+000000f0 t $d	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/libgloss/arm/../../../../../../libgloss/arm/crt0.S:429
+000000fc N $d	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/libgloss/arm/../../../../../../libgloss/arm/crt0.S:429
+0000010c t $t	/home/ecee/Shared/C1M3/main.c:33
+0000010d 00000058 T main	/home/ecee/Shared/C1M3/main.c:32
+00000128 N $d	/home/ecee/Shared/C1M3/main.c:38
+00000158 N $d	/home/ecee/Shared/C1M3/main.c:51
+00000160 t $d	/home/ecee/Shared/C1M3/main.c:51
+00000164 t $t	/home/ecee/Shared/C1M3/misc.c:27
+00000165 00000074 T func	/home/ecee/Shared/C1M3/misc.c:26
+000001b0 N $d	/home/ecee/Shared/C1M3/misc.c:35
+000001cc t $d	/home/ecee/Shared/C1M3/misc.c:42
+000001d8 t $t	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/atexit.c:65
+000001d9 0000000c T atexit	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/newlib/libc/include/stdlib.h:72
+000001e4 N $d	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/exit.c:60
+000001e4 t $t	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/exit.c:60
+000001e5 00000020 T exit	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/newlib/libc/include/stdlib.h:88
+00000200 t $d	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/exit.c:70
+00000204 t $t	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/misc/../../../../../../../newlib/libc/misc/fini.c:25
+00000205 00000028 T __libc_fini_array	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/misc/../../../../../../../newlib/libc/misc/fini.c:24
+00000214 N $d	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/misc/../../../../../../../newlib/libc/misc/fini.c:31
+00000224 t $d	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/misc/../../../../../../../newlib/libc/misc/fini.c:33
+0000022c t $t	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/misc/../../../../../../../newlib/libc/misc/init.c:29
+0000022d 00000050 T __libc_init_array	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/misc/../../../../../../../newlib/libc/misc/init.c:28
+00000240 N $d	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/misc/../../../../../../../newlib/libc/misc/init.c:35
+0000026c t $d	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/misc/../../../../../../../newlib/libc/misc/init.c:40
+00000274 N $d	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/misc/../../../../../../../newlib/libc/misc/init.c:40
+0000027c t $t	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/malloc.c:215
+0000027d 00000010 T malloc	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/newlib/libc/include/malloc.h:37
+00000288 t $d	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/malloc.c:215
+0000028c t $t	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/malloc.c:222
+0000028d 00000010 T free	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/newlib/libc/include/malloc.h:45
+00000298 t $d	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/malloc.c:222
+0000029c t $t	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/mallocr.c:2328
+0000029d 0000056c T _malloc_r	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/mallocr.c:2324
+000002c4 N $d	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/mallocr.c:2361
+00000338 N $d	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/mallocr.c:2452
+00000390 N $d	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/mallocr.c:2481
+000003b0 N $d	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/mallocr.c:2491
+000005fc t $d	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/mallocr.c:2393
+00000604 t $t	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/mallocr.c:2452
+00000804 t $d	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/mallocr.c:2452
+00000808 t $t	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/string/../../../../../../../newlib/libc/string/memset.c:49
+00000809 0000009a T memset	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/newlib/libc/include/string.h:25
+000008a4 t $t
+000008a5 00000002 T __malloc_lock
+000008a9 00000002 T __malloc_unlock
+000008ac t $t	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/reent/../../../../../../../newlib/libc/reent/sbrkr.c:53
+000008ad 00000024 T _sbrk_r	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/newlib/libc/include/reent.h:153
+000008cc t $d	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/reent/../../../../../../../newlib/libc/reent/sbrkr.c:61
+000008d0 t $t	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/__atexit.c:72
+000008d1 000000a4 T __register_exitproc	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/__atexit.c:66
+0000096c t $d	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/__atexit.c:105
+00000974 t $t	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/__call_atexit.c:68
+00000975 000000d8 T __call_exitprocs	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/__call_atexit.c:66
+00000a44 t $d	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/__call_atexit.c:85
+00000a4c t $t	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/mallocr.c:3309
+00000a4d 0000009c T _malloc_trim_r	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/mallocr.c:3305
+00000adc t $d	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/mallocr.c:3349
+00000ae8 t $t	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/mallocr.c:2644
+00000ae9 000001d0 T _free_r	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/mallocr.c:2622
+00000ca8 t $d	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/mallocr.c:2718
+00000cb8 t $t	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/reent/../../../../../../../newlib/libc/reent/reent.c:36
+00000cb9 0000001a T cleanup_glue	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/reent/../../../../../../../newlib/libc/reent/reent.c:33
+00000cd5 00000088 T _reclaim_reent	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/newlib/libc/include/sys/reent.h:768
+00000d58 t $d	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/reent/../../../../../../../newlib/libc/reent/reent.c:130
+00000d5c t $t	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/libgloss/libnosys/../../../../../../libgloss/libnosys/sbrk.c:14
+00000d5d 0000001c T _sbrk	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/libgloss/libnosys/../../../../../../libgloss/libnosys/sbrk.c:7
+00000d70 t $d	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/libgloss/libnosys/../../../../../../libgloss/libnosys/sbrk.c:21
+00000d78 t $t	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/libgloss/libnosys/../../../../../../libgloss/libnosys/_exit.c:11
+00000d79 00000002 T _exit	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/libgloss/libnosys/../../../../../../libgloss/libnosys/_exit.c:9
+00000d7c t $t	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/__call_atexit.c:47
+00000d7d 00000014 t register_fini	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/__call_atexit.c:45
+00000d88 t $d	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/__call_atexit.c:50
+00000d90 t $d
+00000d90 t __frame_dummy_init_array_entry
+00000d90 T __init_array_start
+00000d94 t $d
+00000d98 T __init_array_end
+00000d98 t $t
+00000d99 T _init
+00000d9c t $t
+00000da4 t $t
+00000da5 T _fini
+00000da8 t $d
+00000da8 t __do_global_dtors_aux_fini_array_entry
+00000dac t $t
+00000db4 r $d
+00000db4 00000004 R g2	/home/ecee/Shared/C1M3/main.c:27
+00000db8 r $d
+00000dc8 r $d
+00000dc8 00000004 R _global_impure_ptr	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/newlib/libc/include/sys/reent.h:766
+00000dcc r $d
+00000dd0 r $d
+00000dd0 r __EH_FRAME_BEGIN__
+00000dd0 r __FRAME_END__
+00000dd4 r $d
+00000dd4 R __exidx_start
+00000ddc A __data_load__
+00000ddc R __etext
+00000ddc R __exidx_end
+00200000 A _mailbox_base_address
+00201000 A _tlv_base_address
+00202000 A _bsl_base_address
+20000000 d $d
+20000000 D __data_start__
+20000000 D __dso_handle
+20000000 A _vtable_base_address
+20000004 d $d
+20000004 00000001 D g3	/home/ecee/Shared/C1M3/main.c:28
+20000008 d $d
+20000008 00000028 D g5	/home/ecee/Shared/C1M3/misc.c:24
+20000030 d $d
+20000030 00000004 D _impure_ptr	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/newlib/libc/include/sys/reent.h:765
+20000038 00000428 d impure_data	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/reent/../../../../../../../newlib/libc/reent/impure.c:23
+20000460 d $d
+20000460 00000408 D __malloc_av_	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/mallocr.c:1597
+20000868 00000004 D __malloc_sbrk_base	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/mallocr.c:1712
+2000086c 00000004 D __malloc_trim_threshold	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/mallocr.c:1704
+20000870 d $d
+20000870 D __data_end__
+20000870 d __JCR_END__
+20000870 d __JCR_LIST__
+20000874 B __bss_start__
+20000874 b completed.6523
+20000874 b $d
+20000874 D __TMC_END__
+20000878 b object.6528
+20000890 b $d
+20000890 b g1	/home/ecee/Shared/C1M3/main.c:26
+20000894 00000001 B g4	/home/ecee/Shared/C1M3/main.c:29
+20000898 b $d
+20000898 b f2.4039
+2000089c b $d
+2000089c 00000004 B __malloc_top_pad	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/mallocr.c:1705
+200008a0 00000028 B __malloc_current_mallinfo	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/mallocr.c:1721
+200008c8 00000004 B __malloc_max_sbrked_mem	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/mallocr.c:1715
+200008cc 00000004 B __malloc_max_total_mem	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/stdlib/../../../../../../../newlib/libc/stdlib/mallocr.c:1718
+200008d0 b $d
+200008d0 00000004 b heap_end.4169
+200008d4 00000004 B errno	/build/newlib-OTNHfJ/newlib-2.4.0.20160527/build/arm-none-eabi/armv7e-m/fpu/newlib/libc/reent/../../../../../../../newlib/libc/reent/reent.c:26
+200008d8 B __bss_end__
+200008d8 N end
+200008d8 N _end
+200008d8 N __end
+200008d8 N __heap_end__
+200008d8 N __HeapLimit
+200008d8 N __heap_start__
+200008d8 N _stack
+200008d8 N __stack
